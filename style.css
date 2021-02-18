@@ -37,3 +37,11 @@ body {
   letter-spacing: 0.125rem;
   text-transform: uppercase;
 }
+
+.add-button {
+  background-color: #FF9B64;
+  &:hover {
+    color: white;
+    background-color: #154C12;
+  }
+}
